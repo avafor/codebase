@@ -1,4 +1,4 @@
-## this code generates two files from a set of files with 'train' and 'test' as well as 'pos' and 'neg' labels from the IMDB dataset. 
+## this code generates two dictionary files from a set of files with 'train' and 'test' as well as 'pos' and 'neg' labels from the IMDB dataset. 
 import os
 import glob
 
